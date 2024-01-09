@@ -15,7 +15,7 @@ The course materials from DataCamp's [Python Data Science Toolbox Part 2](https:
 3. Converting data from wide to long format
 4. Merging dataframes
 5. A bit of History
-8. Validating the result
-9. Storing the result back to CSV
+6. Validating the result
+7. Storing the result back to CSV
 
 **Feedback is welcomed.**
