@@ -1,20 +1,21 @@
 # The World Bank Dataset Recreation
-The Datacamp [Python Data Science Toolbox Part 2](https://app.datacamp.com/learn/courses/python-data-science-toolbox-part-2) course resources includes a pre-processed World Bank World Development Indicators dataset in CSV format. 
+***
+
+The course materials from DataCamp's [Python Data Science Toolbox Part 2](https://app.datacamp.com/learn/courses/python-data-science-toolbox-part-2) include a pre-processed World Bank World Development Indicators dataset in CSV format. My objective was to replicate this dataset from the original source. The following outlines the steps undertaken to achieve this goal.
 
 ## Purpose
-1. **Attempt** to recreate that dataset from the data available on the [World Bank Open Data](https://data.worldbank.org/) portal using Python and the available CSV data.
-2. **Use** the knowledge gained from taking the Data Analyst in Python track. 
-3. **Share** this knowledge with others.
+1. **Effort**: Strive to reconstruct the dataset using the data accessible on the [World Bank Open Data](https://data.worldbank.org/) portal with the assistance of Python and the provided CSV data.
+2. **Apply**: Apply the skills acquired through the Data Analyst in Python track to achieve the dataset recreation.
+3. **Disseminate**: Share this acquired knowledge with others for mutual learning and understanding.
 
 ### Areas covered
 1. Loading and Inspecting the Data
-2. Data cleaning and filtering
+2. Cleaning and filtering
    - Investigating differences in the datasets
 3. Converting data from wide to long format
-4. Mergining dataframes
-5. A little history
-6. Validating the result
-7. Saving the result back to CSV
-
+4. Merging dataframes
+5. A bit of History
+8. Validating the result
+9. Storing the result back to CSV
 
 **Feedback is welcomed.**
